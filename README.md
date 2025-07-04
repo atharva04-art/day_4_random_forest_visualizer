@@ -56,20 +56,3 @@ seaborn
 
 
 ---
-
-### ✅ How to Add
-
-1. Open your project folder:  
-   `day_4_random_forest_visualizer/`
-
-2. Create a new file named:  
-   `README.md`
-
-3. Paste the entire content above into that file and save it.
-
-4. Then push to GitHub:
-
-```bash
-git add README.md
-git commit -m "Add complete and polished README for Day 4"
-git push
